@@ -1,0 +1,15 @@
+﻿  main.cpp
+  TopSpin.cpp
+d:\visual studio 2015\topspingame\topspin.cpp(59): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\topspingame\circulardoublylinkedlist.h(61): warning C4018: '<': signed/unsigned mismatch
+  d:\visual studio 2015\topspingame\circulardoublylinkedlist.h(59): note: while compiling class template member function 'CircularDoublyLinkedList<int>::~CircularDoublyLinkedList(void)'
+  d:\visual studio 2015\topspingame\topspin.cpp(5): note: see reference to function template instantiation 'CircularDoublyLinkedList<int>::~CircularDoublyLinkedList(void)' being compiled
+  d:\visual studio 2015\topspingame\topspin.h(22): note: see reference to class template instantiation 'CircularDoublyLinkedList<int>' being compiled
+d:\visual studio 2015\topspingame\circulardoublylinkedlist.h(142): warning C4018: '>': signed/unsigned mismatch
+  d:\visual studio 2015\topspingame\circulardoublylinkedlist.h(141): note: while compiling class template member function 'int CircularDoublyLinkedList<int>::retrieveNode(int)'
+  d:\visual studio 2015\topspingame\topspin.cpp(56): note: see reference to function template instantiation 'int CircularDoublyLinkedList<int>::retrieveNode(int)' being compiled
+d:\visual studio 2015\topspingame\circulardoublylinkedlist.h(149): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+d:\visual studio 2015\topspingame\circulardoublylinkedlist.h(155): warning C4715: 'CircularDoublyLinkedList<int>::retrieveNode': not all control paths return a value
+  TopSpinGame.vcxproj -> D:\Visual Studio 2015\TopSpinGame\Debug\TopSpinGame.exe
+  TopSpinGame.vcxproj -> D:\Visual Studio 2015\TopSpinGame\Debug\TopSpinGame.pdb (Full PDB)
